@@ -1,0 +1,14 @@
+!SESSION 2014-05-18 15:56:18.386 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=de_DE
+Command-line arguments:  -data /home/quynh/teamA2/src/de/hhu/propra/teamA2 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.ui.ide 4 4 2014-05-18 15:57:37.368
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2014-05-18 15:57:37.371
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2014-05-18 15:57:37.372
+!MESSAGE The project description file (.project) for 'teamA2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
